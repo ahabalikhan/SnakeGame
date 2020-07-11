@@ -1,5 +1,5 @@
 # SnakeGame
-A snake game which I made to understand OOP, mainly inheritance and  function overriding and other interesting things. Pygame is used in it...
+The good old snake game which I made to understand OOP, mainly inheritance and  function overriding and other interesting things. Pygame is used in it...
 
 Its one of those projects of mine through which I learned pygame
 
