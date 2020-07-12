@@ -5,7 +5,7 @@ Its one of those projects of mine through which I learned pygame
 
 No design language is used in it, it's written in pure python.
 
-**************IMPORTANT*******************
+ **************IMPORTANT*******************
 - In order to run this game you need to install latest pygame module
 - To install pygame open CMD with administrator privilages and run command:
   >pip install pygame
