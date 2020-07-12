@@ -3,7 +3,9 @@ The good old snake game which I made to understand OOP, mainly inheritance and  
 
 Its one of those projects of mine through which I learned pygame
 
-**************IMPORTANT*******************8
+No design language is used in it, it's written in pure python.
+
+**************IMPORTANT*******************
 - In order to run this game you need to install latest pygame module
 - To install pygame open CMD with administrator privilages and run command:
   >pip install pygame
